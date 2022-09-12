@@ -112,7 +112,7 @@
  }
 
  .computer:hover {
-   filter: drop-shadow (5px 10px 18px blue);
+   box-shadow: 5px 10px 18px blue;
    transition: 0.3s;
    transform: translateY(-1em);
    border-radius: 10%;
